@@ -57,7 +57,7 @@ Tools Used:
 
 ---
 
-## 📌 Conclusion
+ Conclusion
 This project highlights the strong relationship between water pollution and public health and demonstrates how data can support better decision-making.
 
 ---
