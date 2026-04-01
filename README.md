@@ -1,11 +1,11 @@
  Water Pollution and Public Health Dashboard
 
- Overview
+ Overview: 
 This project analyzes the impact of water pollution on public health using an interactive dashboard built in Microsoft Excel. It explores disease trends, clean water access, healthcare availability, and regional disparities.
 
 ---
 
-## 🎯 Objectives
+Objectives:
 - Analyze the relationship between water quality and disease prevalence  
 - Identify regional differences in health outcomes  
 - Evaluate access to clean water and healthcare  
@@ -13,7 +13,7 @@ This project analyzes the impact of water pollution on public health using an in
 
 ---
 
-## 🛠️ Tools Used
+Tools Used: 
 - Microsoft Excel  
 - Pivot Tables  
 - Data Cleaning & Transformation  
@@ -22,7 +22,7 @@ This project analyzes the impact of water pollution on public health using an in
 
 ---
 
-## 📈 Dashboard Features
+ Dashboard Features:
 - KPI cards for key metrics  
 - Disease trend analysis over time  
 - Regional comparison of disease cases  
@@ -32,27 +32,23 @@ This project analyzes the impact of water pollution on public health using an in
 
 ---
 
-## 🔍 Key Insights
+ Key Insights: 
 - The East region recorded the highest disease burden and lowest clean water access  
 - Regions with better water access showed lower disease cases  
 - Higher disease prevalence is associated with higher mortality rates  
 - Water treatment methods are evenly distributed across regions  
 
 ---
- Recommendations
+ Recommendations: 
 - Improve access to clean water in high-risk regions  
 - Strengthen healthcare systems in affected areas  
 - Promote effective and standardized water treatment methods  
 - Monitor disease trends for early intervention  
 
----
-
-## 🖼️ Dashboard Preview
-![Dashboard](dashboard.png)
 
 ---
 
-## 🧠 Skills Demonstrated
+ Skills Demonstrated: 
 - Data Cleaning  
 - Data Analysis  
 - Data Visualization  
